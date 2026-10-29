@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Md. Ruhul Amin - Homeopathic Doctor",
+  "description": "Official website and patient portal for Dr. Md. Ruhul Amin, BHMS (DU), MPH (BOU), Homeopathic Consultant in Mirpur-10, Dhaka. Serial appointments, location, and consultation information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
